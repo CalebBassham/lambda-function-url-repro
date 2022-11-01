@@ -1,0 +1,4 @@
+packages:
+  - 'sveltekit-adapter-aws'
+  - 'sk-app'
+  - 'sk-demo-app'
